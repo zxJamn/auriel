@@ -1,0 +1,399 @@
+{
+ "format": 1,
+ "written": "2026-11-06T17:34:25.106Z",
+ "items": [
+  {
+   "id": "lite",
+   "kind": "edition",
+   "name": "Auriel Lite",
+   "version": "2.4",
+   "about": "The Hall and the daily note: your day, your journal, your habits, a focus timer, Breathe, and the Hall's settings: your theme and a banner across the top.",
+   "free": true,
+   "includes": [
+    "lamplit"
+   ],
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "core",
+   "kind": "edition",
+   "name": "Auriel Core",
+   "version": "2.4",
+   "about": "Everything in Lite, with a background behind the Hall, the Sky, your measures and three themes. The add-ons and the other themes need it.",
+   "price": "£6 (Beta), then £12",
+   "shop": {
+    "url": "https://buy.polar.sh/polar_cl_tcjvNAF3c6hQrKoyukUry6Qznkq6e8x5wgcdV3rhlSu",
+    "polar": [
+     "02561e9b-06ed-43c3-8579-2d022cc0b6e1"
+    ]
+   },
+   "includes": [
+    "flat",
+    "lamplit",
+    "material"
+   ],
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "nutrition",
+   "kind": "addon",
+   "name": "Nutrition",
+   "version": "1.1.0",
+   "requires": {
+    "core": "^2.1"
+   },
+   "about": "A meal plan you build: your foods, your meals, the cycle, and what each day covers. 12 months of updates, then the version you have is yours to keep. Needs Core.",
+   "price": "",
+   "later": "after the beta",
+   "updates": 12,
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "gym",
+   "kind": "addon",
+   "name": "Gym",
+   "version": "1.1.0",
+   "requires": {
+    "core": "^2.1"
+   },
+   "about": "Your programme, its sessions and your lifts, with the day's session in the daily note. 12 months of updates, then the version you have is yours to keep. Needs Core.",
+   "price": "",
+   "later": "after the beta",
+   "updates": 12,
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "courses",
+   "kind": "addon",
+   "name": "Courses",
+   "version": "1.1.0",
+   "requires": {
+    "core": "^2.1"
+   },
+   "about": "Your courses and their lessons, and where you are in each. 12 months of updates, then the version you have is yours to keep. Needs Core.",
+   "price": "",
+   "later": "after the beta",
+   "updates": 12,
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "media",
+   "kind": "addon",
+   "name": "Media",
+   "version": "1.1.0",
+   "requires": {
+    "core": "^2.1"
+   },
+   "about": "Films and shows: what you have watched, what you thought of it, and what is next. 12 months of updates, then the version you have is yours to keep. Needs Core.",
+   "price": "",
+   "later": "after the beta",
+   "updates": 12,
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "academia",
+   "kind": "theme",
+   "name": "Dark Academia",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "brass",
+   "kind": "theme",
+   "name": "Brass & Neon",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "brutal",
+   "kind": "theme",
+   "name": "Brutal",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "cyber",
+   "kind": "theme",
+   "name": "Cyber",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "deepsea",
+   "kind": "theme",
+   "name": "Deep Sea",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "flat",
+   "kind": "theme",
+   "name": "Flat",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "gilded",
+   "kind": "theme",
+   "name": "Gilded",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "glass",
+   "kind": "theme",
+   "name": "Glass",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "hallownest",
+   "kind": "theme",
+   "name": "Hallownest",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "harvest",
+   "kind": "theme",
+   "name": "Harvest",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "lamplit",
+   "kind": "theme",
+   "name": "Lamplit",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "material",
+   "kind": "theme",
+   "name": "Material",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "neu",
+   "kind": "theme",
+   "name": "Neumorphism",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "phantom",
+   "kind": "theme",
+   "name": "Phantom",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "resonance",
+   "kind": "theme",
+   "name": "Resonance",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "ribbon",
+   "kind": "theme",
+   "name": "Ribbon",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "skylight",
+   "kind": "theme",
+   "name": "Skylight",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "summit",
+   "kind": "theme",
+   "name": "Summit",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "terminal",
+   "kind": "theme",
+   "name": "Terminal",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "underworld",
+   "kind": "theme",
+   "name": "Underworld",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "vortex",
+   "kind": "theme",
+   "name": "Time Vortex",
+   "version": "1.0",
+   "about": "",
+   "price": "",
+   "date": "2026-11-06",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "collection-1",
+   "kind": "bundle",
+   "name": "Theme Collection 1",
+   "items": [
+    "academia",
+    "brass",
+    "brutal",
+    "cyber",
+    "deepsea",
+    "gilded",
+    "glass",
+    "hallownest",
+    "harvest",
+    "neu",
+    "phantom",
+    "resonance",
+    "ribbon",
+    "skylight",
+    "summit",
+    "terminal",
+    "underworld",
+    "vortex"
+   ],
+   "about": "The 18 themes made so far, beyond the three that come with Core, yours for good. Themes made later come in a collection of their own, and with Yearly and Lifetime. Needs Core.",
+   "price": "",
+   "later": "after the beta"
+  },
+  {
+   "id": "media-suite",
+   "kind": "bundle",
+   "name": "Media Suite",
+   "items": [
+    "media"
+   ],
+   "about": "Every media view: films and shows now, books and more as they come, each with every update. Needs Core.",
+   "price": "",
+   "later": "after the beta"
+  },
+  {
+   "id": "everything",
+   "kind": "bundle",
+   "name": "Complete",
+   "items": [
+    "core",
+    "nutrition",
+    "gym",
+    "courses",
+    "media"
+   ],
+   "asBought": true,
+   "about": "Core and every add-on out on the day you buy it, for one price paid once: Core's updates for good, the add-ons' for 12 months, and the versions you have are yours to keep. Add-ons released after that are not in it; Lifetime has those.",
+   "price": "£12 (Beta), then £24",
+   "shop": {
+    "url": "https://buy.polar.sh/polar_cl_aopbjDkVxgAfHg0jCIgiXTBaQuqrL609nrHG70QAdrV",
+    "polar": [
+     "16c33d6e-2907-4b65-a237-d153e55f19bc"
+    ]
+   },
+   "updates": 12
+  },
+  {
+   "id": "yearly",
+   "kind": "bundle",
+   "name": "Yearly",
+   "items": [
+    "*"
+   ],
+   "yearly": true,
+   "about": "Core, every add-on and every theme, and everything released while it lasts.",
+   "price": "",
+   "later": "after the beta"
+  },
+  {
+   "id": "lifetime",
+   "kind": "bundle",
+   "name": "Lifetime",
+   "items": [
+    "*"
+   ],
+   "about": "Core, every add-on and every theme, and everything released after, with every update, for one price paid once.",
+   "price": "£24 (Beta), then £48",
+   "shop": {
+    "url": "https://buy.polar.sh/polar_cl_4mwkgIE77O1tqT4OHqQi4DYYYfNW8DjFzEASP2epUJQ",
+    "polar": [
+     "4937e2b3-eef9-40d6-b250-fb11fec39d7d"
+    ]
+   }
+  }
+ ]
+}

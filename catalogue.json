@@ -1,0 +1,272 @@
+{
+ "format": 1,
+ "written": "2026-11-20T22:26:07.947Z",
+ "items": [
+  {
+   "id": "lite",
+   "kind": "edition",
+   "name": "Auriel Lite",
+   "version": "2.16",
+   "about": "The Hall and the daily note: your day, your journal, your habits, a focus timer, Breathe, the Sky's sunrise, sunset and daylight, and the Hall's settings: your theme and a banner across the top.",
+   "free": true,
+   "includes": [
+    "lamplit"
+   ],
+   "packs": [],
+   "date": "2026-11-20",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "core",
+   "kind": "edition",
+   "name": "Auriel Core",
+   "version": "2.16",
+   "about": "Everything in Lite, with your films, Trends over weeks, months and a year, a review written as a note, your own morning questions, goals your notes measure, backgrounds that change, music for each style, a Hall you arrange, and three themes. Paid once, with Core's updates for good. The add-ons and the other themes need it.",
+   "price": "£12",
+   "after": "£18 after the beta",
+   "offer": "Beta · £6 off",
+   "shop": {
+    "url": "https://buy.polar.sh/polar_cl_Qz1xix4gnwUWG8b9vhPwr7p3qCepdrBENxeSv0TZcyu",
+    "polar": [
+     "02561e9b-06ed-43c3-8579-2d022cc0b6e1"
+    ]
+   },
+   "points": [
+    "Everything in Lite",
+    "Your films, each a note of its own",
+    "Trends: what your notes recorded over weeks, months and a year",
+    "A review of your week, month or year, written as a note",
+    "Your own morning questions, and goals your notes measure",
+    "Backgrounds that change, music for each style, a Hall you arrange"
+   ],
+   "pics": [
+    "https://auriel.me/img/p03-lamplit-forest-hall.jpg",
+    "https://auriel.me/img/p04-flat-heather-hall.jpg",
+    "https://auriel.me/img/p08-material-cobalt-hall.jpg"
+   ],
+   "shows": [
+    {
+     "title": "Your films",
+     "words": "Every film a note of its own: what you thought of it, when you watched it, what is queued. The Hall's Media tab picks one for tonight and shows what you are watching and your year in films.",
+     "mark": "reel"
+    },
+    {
+     "title": "Trends",
+     "words": "A page of the Hall that reads back what your daily notes recorded: weight, sleep, energy and mood, waking, focus and habits over two weeks, three months or a year, set against the span before. Any number your notes keep is drawn beside them.",
+     "mark": "graph"
+    },
+    {
+     "title": "The habits' year, and a review",
+     "words": "Each habit across twelve months with its longest run, and a week, a month or a year read back and written down as a note, with the lines you starred. A month exports as one clean page.",
+     "mark": "diary"
+    },
+    {
+     "title": "Your morning, your goals",
+     "words": "Questions of your own asked after the mood, each answer written to the day's properties. Goals on the Compass measured by a number your notes keep. On this day: a month, a year and two years ago.",
+     "mark": "sunrise"
+    },
+    {
+     "title": "A picture behind the Hall",
+     "words": "A picture or a video of your own behind the whole Hall, softened as much as you like: one picture, one for each part of the day, or a new one each day from a folder.",
+     "mark": "image"
+    },
+    {
+     "title": "A Hall you arrange",
+     "words": "Each room's plates in the order you want, wider or narrower, or hidden. Each style plays its own music, faded across when you change.",
+     "mark": "drag"
+    },
+    {
+     "title": "Flat and Material",
+     "words": "Two more themes beside Lamplit, each with every palette. Every view changes at once.",
+     "pics": [
+      "https://auriel.me/img/p04-flat-heather-hall.jpg",
+      "https://auriel.me/img/p08-material-cobalt-hall.jpg"
+     ]
+    }
+   ],
+   "includes": [
+    "flat",
+    "lamplit",
+    "material"
+   ],
+   "packs": [
+    "media"
+   ],
+   "date": "2026-11-20",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "nutrition",
+   "kind": "addon",
+   "name": "Nutrition",
+   "requires": {
+    "core": "^2.1"
+   },
+   "about": "A meal plan you build: your foods, your meals, the cycle, and what each day covers. A year of updates from the day you buy it, then the version you have is yours to keep. Needs Core.",
+   "price": "£14",
+   "later": "being made, with no date promised",
+   "updates": 12,
+   "mark": "plate"
+  },
+  {
+   "id": "gym",
+   "kind": "addon",
+   "name": "Gym",
+   "requires": {
+    "core": "^2.1"
+   },
+   "about": "Your programme, its sessions and your lifts, with the day's session in the daily note. A year of updates from the day you buy it, then the version you have is yours to keep. Needs Core.",
+   "price": "£6",
+   "later": "being made, with no date promised",
+   "updates": 12,
+   "mark": "dumbbell"
+  },
+  {
+   "id": "courses",
+   "kind": "addon",
+   "name": "Courses",
+   "requires": {
+    "core": "^2.1"
+   },
+   "about": "Your courses and their lessons, and where you are in each. Sold in Media. A year of updates from the day you buy it, then the version you have is yours to keep. Needs Core.",
+   "price": "",
+   "later": "in Media, being made",
+   "updates": 12,
+   "mark": "cap"
+  },
+  {
+   "id": "shows",
+   "kind": "addon",
+   "name": "Shows",
+   "requires": {
+    "core": "^2.1"
+   },
+   "about": "Shows, and the shelf, the crate and the console: the episode you are on, the books you are reading, the album on the turntable, the games in play, and a card for each on the Hall's Media tab. Sold in Media. A year of updates from the day you buy it, then the version you have is yours to keep. Needs Core.",
+   "price": "",
+   "later": "in Media, being made",
+   "updates": 12,
+   "mark": "screen"
+  },
+  {
+   "id": "flat",
+   "kind": "theme",
+   "name": "Flat",
+   "version": "1.3",
+   "about": "",
+   "price": "",
+   "pics": [
+    "https://auriel.me/img/p04-flat-heather-hall.jpg",
+    "https://auriel.me/img/p33-flat-heatherdawn-hall.jpg",
+    "https://auriel.me/img/p35-flat-indigonight-hall.jpg"
+   ],
+   "date": "2026-11-18",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "lamplit",
+   "kind": "theme",
+   "name": "Lamplit",
+   "version": "1.2",
+   "about": "",
+   "price": "",
+   "pics": [
+    "https://auriel.me/img/p03-lamplit-forest-hall.jpg",
+    "https://auriel.me/img/p20-lamplit-gold-hall.jpg",
+    "https://auriel.me/img/p22-lamplit-oxblood-hall.jpg"
+   ],
+   "date": "2026-11-18",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "material",
+   "kind": "theme",
+   "name": "Material",
+   "version": "1.3",
+   "about": "",
+   "price": "",
+   "pics": [
+    "https://auriel.me/img/p08-material-cobalt-hall.jpg",
+    "https://auriel.me/img/p54-material-cobaltdark-hall.jpg",
+    "https://auriel.me/img/p56-material-baseline-hall.jpg"
+   ],
+   "date": "2026-11-18",
+   "first": "2026-11-06"
+  },
+  {
+   "id": "media-suite",
+   "kind": "bundle",
+   "name": "Media Suite",
+   "items": [
+    "shows",
+    "courses"
+   ],
+   "about": "Everything beside the films, which Core has: shows, books, albums, games and courses, each a card on the Hall's Media tab beside your films, as each is ready. Paid once, with a year of updates: every Media view released in that year, then the versions you have are yours to keep. Needs Core.",
+   "price": "£20",
+   "later": "being made, with no date promised",
+   "updates": 12,
+   "mark": "reel"
+  },
+  {
+   "id": "themes-pass",
+   "kind": "bundle",
+   "name": "Themes Pass",
+   "items": [
+    "*theme"
+   ],
+   "yearly": true,
+   "about": "Every theme out while it runs, each with its palettes. It sits on top of Core, which it needs and which you buy once. Billed every year until you cancel; what you install while it runs keeps working where it is.",
+   "price": "£20",
+   "later": "when the first themes beyond Core's are out"
+  },
+  {
+   "id": "plus-pass",
+   "kind": "bundle",
+   "name": "Plus Pass",
+   "items": [
+    "*addon"
+   ],
+   "yearly": true,
+   "about": "Every add-on out while it runs, with every update. It sits on top of Core, which it needs and which you buy once. Billed every year until you cancel; what you install while it runs keeps working where it is.",
+   "price": "£30",
+   "later": "when the first add-on is out"
+  },
+  {
+   "id": "yearly",
+   "kind": "bundle",
+   "name": "Complete Pass",
+   "items": [
+    "*theme",
+    "*addon"
+   ],
+   "yearly": true,
+   "about": "Every add-on and every theme out while it runs, with every update. It sits on top of Core, which it needs and which you buy once. Billed every year until you cancel; what you install while it runs keeps working where it is.",
+   "price": "£45",
+   "later": "when the first add-on is out"
+  },
+  {
+   "id": "lifetime",
+   "kind": "bundle",
+   "name": "Lifetime",
+   "items": [
+    "*theme",
+    "*addon"
+   ],
+   "about": "Every add-on and every theme, now and as they are released for as long as Auriel is made, with every update, for one payment. It sits on top of Core, which it needs and which you buy once. It goes on sale once there is something in it beyond Core; all it will hold is planned, not promised.",
+   "price": "£55",
+   "after": "£180 after the beta",
+   "offer": "Beta · £125 off",
+   "shop": {
+    "url": "https://buy.polar.sh/polar_cl_1TK0yHtyB49k8zE8FkhcoY5n2J4rTvQKL73tf39DHTT",
+    "polar": [
+     "4937e2b3-eef9-40d6-b250-fb11fec39d7d"
+    ]
+   },
+   "later": "when there is something in it beyond Core",
+   "pics": [
+    "https://auriel.me/img/p01-lamplit-oxblood-ledger.jpg",
+    "https://auriel.me/img/p06-flat-hearthlight-ledger.jpg",
+    "https://auriel.me/img/p09-material-cobaltdark-shelves.jpg"
+   ]
+  }
+ ]
+}
